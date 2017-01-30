@@ -1,6 +1,6 @@
 # simple_python_api
 
-simple python django Rest api server
+simple python django RESTful api server
 
 
 
